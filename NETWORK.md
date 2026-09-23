@@ -1,17 +1,22 @@
-# 🌐 Zion App Network — Interlinks
+# Incident Comms Writer — Network Interlinks
 
-**incident-comms-writer** is part of the Zion Tech Group app network (690+ repos).
+Part of the **Zion AI App Network** (660+ interlinked apps).
 
-- 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
-- 🗃️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
-- ▶️ Live app: [ziontechgroup.com/incident-comms-writer/](https://ziontechgroup.com/incident-comms-writer/)
+## Core links
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://zion-support.github.io/apps/
+- Master directory: https://github.com/Zion-support/zion-app-network
+- Network hub repo: https://github.com/Zion-support/zion-network
+- GitHub org: https://github.com/Zion-support
+- Live app: https://zion-support.github.io/incident-comms-writer/
 
 ## Related apps
-- [incident-runbook](https://github.com/Zion-support/incident-runbook) — incident runbooks
-- [incident-timeline-reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor) — incident timelines
-- [zion-ai-status-comms](https://github.com/Zion-support/zion-ai-status-comms) — status comms automation
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+| App | Live | GitHub |
+|---|---|---|
+| Uptime Status Hub | https://zion-support.github.io/uptime-status-hub/ | https://github.com/Zion-support/uptime-status-hub |
+| Zion AI Status Comms | https://zion-support.github.io/zion-ai-status-comms/ | https://github.com/Zion-support/zion-ai-status-comms |
+| Postmortem Generator | https://zion-support.github.io/postmortem-generator/ | https://github.com/Zion-support/postmortem-generator |
 
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+## Get started
+- Book a free Discovery Call: https://ziontechgroup.com/discovery/
+- Plans & pricing: https://ziontechgroup.com/en/plans/
